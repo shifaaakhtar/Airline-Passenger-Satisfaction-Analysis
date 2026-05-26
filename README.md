@@ -15,6 +15,9 @@ The main questions explored in this project include:
 - Are some passengers more tolerant of delays than others?
 - Why do some passengers remain satisfied despite long delays?
 
+- ![Delay Boxplot](satisfaction_vs_delayed_arrival.png) 
+
+
 ## Dataset
 
 Source:
