@@ -95,14 +95,6 @@ This project helped me mainly in practicing translating raw data into business i
 - Data visualization
 - Analytical storytelling using data
 
-## Future Improvements
-
-Possible next steps for this project:
-
-- Build an interactive dashboard using Streamlit
-- Explore predictive modeling for satisfaction
-- Analyze additional customer segmentation patterns
-
 ## Author
 
 [Shifaa Akhtar]
