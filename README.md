@@ -1,22 +1,28 @@
 # Airline Passenger Satisfaction Analysis
 
-## Project Overview
+## Executive Summary
 
 This project explores factors influencing airline passenger satisfaction using Python for data cleaning, exploratory data analysis (EDA), and visualization.
 
 The analysis focuses on understanding how operational factors such as flight delays interact with customer experience ratings, and investigates why some passengers remain satisfied despite experiencing significant delays.
 
+## Business Problem
+
+Airline companies continuously monitor passenger satisfaction to improve customer retention, brand reputation and overall travel experience.
+
+Passenger satisfaction is a key performance indicator for airlines, influencing customer loyalty, brand reputation etc,
+While operational disruptions such as flight delays can negatively affect customer experience, airlines have limited control over certain delays caused by factors such as weather, air traffic congestion or airport operations.
+
+This analysis aims to identify which aspects of passenger experience have strongest relationship with satisfaction and explore whether high quality service can help mitigate the impact of delays.
+
 ## Objectives
 
 The main questions explored in this project include:
 
-- How do flight delays affect passenger satisfaction?
-- Which service categories are most associated with satisfaction?
-- Are some passengers more tolerant of delays than others?
-- Why do some passengers remain satisfied despite long delays?
-
-- ![Delay Boxplot](satisfaction_vs_delayed_arrival.png) 
-
+- How does flight delay duration influence passenger satisfaction?
+- Which service categories contribute most to passenger satisfaction?
+- Arte certain passenger groups more tolerant of operational disruptions?
+- What factors explain why some passengers remain satisfied despite experiencing significant delay?
 
 ## Dataset
 
@@ -39,22 +45,26 @@ The dataset contains:
 - Seaborn
 - Jupyter Notebook
 
-## Data Cleaning
+## Data Preparation
 
-The following cleaning steps were performed:
+Prior to analysis, the dataset was reviewed to ensure data quality and consistency.
 
-- Checked and handled missing values
-- Removed duplicate records
-- Standardized column names
-- Validated ordinal rating scales (1 - 5)
-- Inspected categorical and numerical variables
+Cleaning activities included:
+
+- Identifying and handling missing values
+- Checking for duplicate records
+- Standardizing column name for analysis
+- Validating ordinal service-rating scales (1-5)
+- Reviewing categorical and numerical variables for anomalies
+- Confirming data types and value consistency
 
 ## Exploratory Data Analysis (EDA)
 
-The analysis included:
+Analysis was structured around the project's key business questions.
 
-### Customer Satisfaction Distribution
-- Compared satisfied vs dissatisfied passengers
+### Dataset Overview
+- Examined the distribution of satisfied and dissatisfied passengers.
+- Established baseline satisfaction levels across the dataset.
 
 ### Delay Impact Analysis
 - Investigated how delays affect satisfaction
@@ -81,22 +91,20 @@ Some key findings from the analysis include:
 
 ## Visualizations
 
-Examples of visualizations created in this project:
-
 - Satisfaction distribution charts
 - Delay vs satisfaction boxplots
 - Satisfaction rate by delay duration
 - Service rating comparison heatmaps
 
-## What I Learned
+## Key Takeaways
 
-This project helped me mainly in practicing translating raw data into business insights, strengthen my skills in:
+Through this project, I strengthened my ability to:
 
-- Python data analysis workflows
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Data visualization
-- Analytical storytelling using data
+- Clean and prepare real-world datasets for analysis
+- Conduct exploratory data analysis using Python
+- Build visualizations to communicate findings effectively
+- Translate analytical findings into business-oriented insights
+- Investigate customer behaviour through a structured analytical approach
 
 ## Author
 
