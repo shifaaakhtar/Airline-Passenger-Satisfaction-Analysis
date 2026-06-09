@@ -70,6 +70,9 @@ Analysis was structured around the project's key business questions.
 - Investigated how delays affect satisfaction
 - Created delay threshold groups
 
+  ![Customer Satisfaction Distribution](Satisfaction_Rate_By_Delay_Duration.png)
+
+
 ### Service Quality Analysis
 - Compared average service ratings between satisfaction groups
 
