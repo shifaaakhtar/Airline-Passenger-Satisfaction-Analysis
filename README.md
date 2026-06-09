@@ -70,7 +70,7 @@ Analysis was structured around the project's key business questions.
 - Investigated how delays affect satisfaction
 - Created delay threshold groups
   
- <img src="Satisfaction_Rate_By_Delay_Duration.png" width="500">
+ <img src="Satisfaction_Rate_by_Delay_Duration.png" width="500">
 
  **Insight:**
  Passenger satisfaction declines progressively as flight delay duration increases.
