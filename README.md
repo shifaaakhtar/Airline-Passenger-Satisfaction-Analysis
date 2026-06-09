@@ -71,7 +71,7 @@ Analysis was structured around the project's key business questions.
 - Created delay threshold groups
 
   ![Customer Satisfaction Distribution](Satisfaction_Rate_By_Delay_Duration.png)
-
+ <img src="Satisfaction_Rate_By_Delay_Duration.png" width="500">
 
 ### Service Quality Analysis
 - Compared average service ratings between satisfaction groups
