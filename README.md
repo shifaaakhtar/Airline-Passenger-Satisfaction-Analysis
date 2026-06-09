@@ -69,8 +69,7 @@ Analysis was structured around the project's key business questions.
 ### Delay Impact Analysis
 - Investigated how delays affect satisfaction
 - Created delay threshold groups
-
-  ![Customer Satisfaction Distribution](Satisfaction_Rate_By_Delay_Duration.png)
+  
  <img src="Satisfaction_Rate_By_Delay_Duration.png" width="500">
 
 ### Service Quality Analysis
