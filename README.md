@@ -72,6 +72,10 @@ Analysis was structured around the project's key business questions.
   
  <img src="Satisfaction_Rate_By_Delay_Duration.png" width="500">
 
+ **Insight:**
+ Passenger satisfaction declines progressively as flight delay duration increases.
+ This suggests that improving delay management or mitigating customer experience during delays could significantly improve overall satisfaction.
+
 ### Service Quality Analysis
 - Compared average service ratings between satisfaction groups
 
