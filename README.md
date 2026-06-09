@@ -68,7 +68,8 @@ Analysis was structured around the project's key business questions.
 
 ### Delay Impact Analysis
 - Investigated how delays affect satisfaction
-- Created delay threshold groups
+- Grouped arrival delays into threshold categories
+- Calculated the percentage of satisfied vs dissatisfied passengers within each group
   
  <img src="Satisfaction_Rate_by_Delay_Duration.png" width="500">
 
