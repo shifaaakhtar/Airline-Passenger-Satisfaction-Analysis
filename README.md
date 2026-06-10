@@ -68,6 +68,12 @@ Analysis was structured around the project's key business questions.
 ### Key Service Areas Based on Satisfaction
 - Identified service categories with the largest rating differences between satisfied and dissatisfied passengers
 
+ <img src="Key_Service_Areas.png" width="500">
+
+ **Insight:**
+Inflight entertainment, seat comfort, cleanliness & on-board service exhibited the largest rating differences between satisfied and dissatisfied passengers.
+This suggests that these service areas may have the strongest association with overall passenger satisfaction
+
 ### Delay Impact Analysis
 - Investigated how delays affect satisfaction
 - Grouped arrival delays into threshold categories
