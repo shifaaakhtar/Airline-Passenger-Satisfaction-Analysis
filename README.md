@@ -20,7 +20,7 @@ This analysis aims to identify which aspects of passenger experience have strong
 The main questions explored in this project include:
 
 - How does flight delay duration influence passenger satisfaction?
-- Which service categories contribute most to passenger satisfaction?
+- Which service categories show the strongest association with passenger satisfaction?
 - What factors explain why some passengers remain satisfied despite experiencing significant delay?
 
 ## Dataset
@@ -101,7 +101,7 @@ Some key findings from the analysis include:
 - Some passengers remained satisfied despite experiencing long delays
 - Service quality factors such as:
   - seat comfort
-  - online boarding
+  - cleanliness
   - inflight entertainment
   showed strong differences between satisfied and dissatisfied passengers
 - Higher service ratings may help offset dissatisfaction caused by delays
@@ -125,6 +125,6 @@ Through this project, I strengthened my ability to:
 
 ## Author
 
-[Shifaa Akhtar]
+Shifaa Akhtar
 
 LinkedIn: [www.linkedin.com/in/shifaa-akhtar] 
