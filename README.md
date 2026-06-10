@@ -81,12 +81,12 @@ Analysis was structured around the project's key business questions.
 - Compared average service ratings between satisfaction groups
 
 ### Delayed but Satisfied Passengers
-A focused analysis was conducted on passengers experiencing delays greater than 100 minutes to understand why some customers still reported satisfaction.
+While long delays are generally associated with dissatisfaction, some passengers remained satisfied. This analysis explores the service areas that may have contributed to their positive experience.
 
  <img src="Top_Services_Rated_by_Delayed_Passengers.png" width="500">
 
  **Insight:**
-Despite experiencing delays exceeding 100 minutes, higher ratings for seat comfort, inflight service, leg room service and baggage handling were observed among satisfied passengers. These service areas may contribute to maintaining satisfaction during significant delays.
+Despite experiencing delays exceeding 100 minutes, higher ratings for seat comfort, inflight service, leg room service and baggage handling were observed among satisfied passengers. This suggests that delvering a positive onboard experience may help airlines mitigate the negative effects of significant delays on overall customer satisfaction.
 
 ## Key Insights
 
