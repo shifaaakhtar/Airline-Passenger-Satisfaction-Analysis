@@ -21,7 +21,6 @@ The main questions explored in this project include:
 
 - How does flight delay duration influence passenger satisfaction?
 - Which service categories contribute most to passenger satisfaction?
-- Arte certain passenger groups more tolerant of operational disruptions?
 - What factors explain why some passengers remain satisfied despite experiencing significant delay?
 
 ## Dataset
@@ -66,6 +65,9 @@ Analysis was structured around the project's key business questions.
 - Examined the distribution of satisfied and dissatisfied passengers.
 - Established baseline satisfaction levels across the dataset.
 
+### Key Service Areas Based on Satisfaction
+- Identified service categories with the largest rating differences between satisfied and dissatisfied passengers
+
 ### Delay Impact Analysis
 - Investigated how delays affect satisfaction
 - Grouped arrival delays into threshold categories
@@ -76,9 +78,6 @@ Analysis was structured around the project's key business questions.
  **Insight:**
  Passenger satisfaction declines progressively as flight delay duration increases.
  This suggests that improving delay management or mitigating customer experience during delays could significantly improve overall satisfaction.
-
-### Service Quality Analysis
-- Compared average service ratings between satisfaction groups
 
 ### Delayed but Satisfied Passengers
 While long delays are generally associated with dissatisfaction, some passengers remained satisfied. This analysis explores the service areas that may have contributed to their positive experience.
