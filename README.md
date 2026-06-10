@@ -83,6 +83,11 @@ Analysis was structured around the project's key business questions.
 ### Delayed but Satisfied Passengers
 A focused analysis was conducted on passengers experiencing delays greater than 100 minutes to understand why some customers still reported satisfaction.
 
+ <img src="Top_Services_Rated_by_Delayed_Passengers.png" width="500">
+
+ **Insight:**
+Despite experiencing delays exceeding 100 minutes, higher ratings for seat comfort, inflight service, leg room service and baggage handling were observed among satisfied passengers. These service areas may contribute to maintaining satisfaction during significant delays.
+
 ## Key Insights
 
 Some key findings from the analysis include:
